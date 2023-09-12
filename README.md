@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louay</h1>
 <h3 align="center">A passionate Web Developer</h3>
-
+<center>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bituspy" alt="bituspy" /></a> </p>
 
 
@@ -10,3 +10,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bituspy&show_icons=true&locale=en&layout=compact" alt="bituspy" /></p>
 
 
+</center>
